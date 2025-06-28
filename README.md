@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myc653
 - 👀 I’m interested in Biology and the application of Bioinformatics
-- 🌱 I’m currently learning CS50x, Phython
+- 🌱 I’m currently learning CS50x, Python
 - 💞️ I’m looking to collaborate on Python, R, Bash
 - 📫 How to reach me
 
